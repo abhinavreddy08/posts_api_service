@@ -25,7 +25,7 @@ $ npm install
 $ DB_CONNECTION = "mongodb conection URI"
 ```
 ### starting the server
--start the server
+- start the server
 ```bash
 $ nodemon index.js
 ```
